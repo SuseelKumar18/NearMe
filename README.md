@@ -141,9 +141,9 @@ temple.html
 
 ## OUTPUT
 
+![alt text](map.png)
 ![alt text](Bathubasti.png)
 ![alt text](<Highfin reef.png>)
-![alt text](map.png)
 ![alt text](<qua spa.png>)
 ![alt text](Xtreme9.png)
 
